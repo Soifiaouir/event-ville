@@ -1,0 +1,19 @@
+.counter-app { color: aliceblue;
+  text-align: center;
+  margin: 20px;
+}
+
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #2bff00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
